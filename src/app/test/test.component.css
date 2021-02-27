@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+p:last-child {
+  color: #1976d2;
+}
+
+p:first-letter {
+  font-size: 24px;
+  color: green;
+}
+
